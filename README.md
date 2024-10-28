@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @aaayushkuikel
-- 👀 I’m interested in learninf about cyber security and programminf
+- 👀 I’m interested in learninf about cyber security and programming
 - 🌱 I’m currently learning burp suit
 - 📫 How to reach me aayushkuikel690@gmail.com
 - 😄 Pronouns: he/him
